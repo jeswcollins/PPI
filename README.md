@@ -1,5 +1,5 @@
 # PPI
-Interactive protein-protein network visualization based on [vis.js](http://visjs.org/).
+Protein-protein interaction network visualization based on [vis.js](http://visjs.org/).
 
 Based on discussions with colleagues Phil Snyder (Vertex) and Venky Soundararajan (nference), I decided to start putting together a protein-protein interaction network visualization. 
 
