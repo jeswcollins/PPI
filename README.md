@@ -1,5 +1,5 @@
 # PPI
-PPI is a protein-protein interaction network visualization based on [vis.js](http://visjs.org/).
+PPI is a protein-protein interaction network visualization based on [vis.js](http://visjs.org/). Try it here: http://jeswcollins.github.io/PPI.
 
 Based on discussions with colleagues Phil Snyder (Vertex) and Venky Soundararajan (nference), I decided to start putting together a protein-protein interaction network visualization. 
 
