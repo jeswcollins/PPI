@@ -9,8 +9,8 @@ I performed such a network analysis, based on data at http://string-db.org/, to 
 
 VX680 interactions:<br>
 <img src="images/vx680.png" style="float: left" width=300px/><br>
-MEF2C interactions:<br>
-<img src="images/MEF2C.png" width=300px/>
+MEF2A interactions:<br>
+<img src="images/MEF2A.png" width=300px/>
 
 
 
