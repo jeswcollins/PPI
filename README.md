@@ -12,6 +12,3 @@ VX680 interactions:
 
 MEF2A:
 ![MEF2A](images/MEF2A.png)
-
-DLG1:
-![DLG1](images/DLG1.png)
