@@ -12,3 +12,8 @@ VX680 interactions:
 
 MEF2A:
 ![MEF2A](images/MEF2A.png)
+
+
+To Do:
+Improve Graph Display algorithm
+Choose an external interaction database and provide a form for searching it (perhaps this task could become its own web plugin project)
