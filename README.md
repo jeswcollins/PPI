@@ -14,6 +14,6 @@ MEF2A:
 ![MEF2A](images/MEF2A.png)
 
 
-To Do:
+#To Do:
 - [ ] Improve Graph Display algoritmh
 - [ ] Choose an external interaction database and provide a form for searching it (perhaps this task could become its own web plugin project)
