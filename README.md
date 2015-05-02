@@ -10,6 +10,7 @@ I performed such a network analysis, based on data at http://string-db.org/, to 
 VX680 interactions:
 ![VX680](images/vx680.png =1x)
 <img src="images/vx680.png" width=500px/>
+<img src="images/MEF2A.png" width=500px/>
 
 
 MEF2A:
