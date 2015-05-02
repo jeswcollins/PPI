@@ -8,10 +8,10 @@ The idea was to see if we could find any second-order effects of a small molecul
 I performed such a network analysis, based on data at http://string-db.org/, to find hypothetical means by which VX-680, a small molecule anti-cancer therapeutic, might cause unintended effects on the heart: CXCR4 (via FLT3), MEF2A & MEF2C (via ABL1), DLG1 (via BCR).
 
 VX680 interactions:
-![VX680](images/vx680.png)
+![VX680](images/vx680.png =100x)
 
 MEF2A:
-![MEF2A](images/MEF2A.png)
+![MEF2A](images/MEF2A.png =50x)
 
 
 #To Do:
