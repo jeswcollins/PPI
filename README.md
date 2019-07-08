@@ -7,7 +7,7 @@ The idea, which Venky suggested, was to see if we could find any second-order ef
 
 We performed a network analysis, based on data at http://string-db.org/, to find hypothetical means by which VX-680, a small molecule anti-cancer therapeutic, might cause unintended effects on the heart: CXCR4 (via FLT3), MEF2A & MEF2C (via ABL1), DLG1 (via BCR).
 
-##Example Images:
+## Example Images:
 VX680 interactions:<br>
 <img src="images/vx680.png" style="float: left" width=450px/><br>
 MEF2A interactions:<br>
@@ -15,6 +15,6 @@ MEF2A interactions:<br>
 
 
 
-##To Do:
+## To Do:
 - [ ] Improve Graph Display algorithm
 - [ ] Choose an external interaction database and provide a form for searching it (perhaps this task could become its own web plugin project)
